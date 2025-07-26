@@ -2,9 +2,9 @@ Here is the Detailed breakdown of the Project
 
 First i Installed the python latest version
 
-when into my root folder
+went  into my root folder
 
-in the terminal started with 
+In the terminal started with 
 **python -m venv venv**
 
 This runs the python interpreter
