@@ -2,7 +2,7 @@ Here is the Detailed breakdown of the Project
 
 First i Installed the python latest version
 
-went  into my root folder
+went into my root folder
 
 In the terminal started with 
 **python -m venv venv**
